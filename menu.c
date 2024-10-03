@@ -1,4 +1,3 @@
-//#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #include "index_first_zero.h"
@@ -30,7 +29,8 @@ int main() {
         printf("%d\n", sum_before_and_after(array, N));
         break;
     default:
-        puts("Данные некорректны");
+        puts("Р”Р°РЅРЅС‹Рµ РЅРµРєРѕСЂСЂРµРєС‚РЅС‹");
     }
     return 0;
 }
+
